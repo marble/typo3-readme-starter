@@ -8,6 +8,8 @@ Subtitle
 ---------------------------
 
 
+:Rendered: |today|
+
 Headline 1
 ==========
 
